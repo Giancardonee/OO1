@@ -1,0 +1,3 @@
+Para este tipo de ejercicios, en el año de mi cursada dijeron que no deberiamos hacer una clase acumuladora de la informacion.
+Por ende, cambia un poco la manera de plantear los ejercicios, al momento de que dice que se crea un producto y se lo retorna.
+
