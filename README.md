@@ -4,7 +4,7 @@
 ➡️ **Debemos una Clase Abstracta** cuando:
 1. **Tengamos atributos en común** entre las clases.
 2. **Tengamos métodos comunes**, pero cada clase los implementa de forma diferente.  
-`Observacion: Podemos tener clases abstractas sin ningun metodo abstracto. Las clases abstractas NO pueden ser instanciadas, `
+`Observacion: Podemos tener clases abstractas sin ningun metodo abstracto. Las clases abstractas NO pueden ser instanciadas. Es decir, no le podriamos hacer un new().  `
 
 ### Ejemplo:
 - Suponiendo que estamos modelando animales y todos tienen atributos  `nombre` y  `peso`, pero cada uno tiene un método `hacerSonido()` que cada tipo de animal (clase hija) lo hace de una manera distinta  como por ejemplo (`Perro: "Guau", Gato: "Miau"`), debemos usar una clase abstracta. 
