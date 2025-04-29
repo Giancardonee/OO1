@@ -3,7 +3,9 @@
 ## 🔶 **Cuándo usar una Clase Abstracta**
 ➡️ **Debemos una Clase Abstracta** cuando:
 1. **Tengamos atributos en común** entre las clases.
-2. **Tengamos métodos comunes**, pero podria pasar que cada clase los implementa de forma diferente.  
+2. **Tengamos métodos comunes**, pero podria pasar que cada clase los implementa de forma diferente.
+3. **Tengamos logica en comun entre las subclases, podemos extraerla y crear un metodo en la superclase**  
+  
 `Observacion: Podemos tener clases abstractas sin ningun metodo abstracto. Las clases abstractas NO pueden ser instanciadas. Es decir, no le podriamos hacer un new().  `
 
 ### Ejemplo:
